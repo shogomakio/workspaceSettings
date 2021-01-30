@@ -14,7 +14,7 @@ add the css path to `settings.json` of the workspace
     ]
 ```
 
-where *$path* = full path for the file location.
+*where *$path* = full path for the file location.*
 
 install and set the theme Cyberpunk
 
@@ -34,4 +34,4 @@ enter and hit
 
 * `Reload Custom CSS and JS Loader` 
 
-* *Do this every time there is an update.*
+*Do this every time there is an update.*
