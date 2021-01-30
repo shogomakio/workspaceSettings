@@ -1,0 +1,17 @@
+{
+    // 参照 http://go.microsoft.com/fwlink/?LinkId=827846
+    // for the documentation about the extensions.json format
+    "recommendations": [
+        // Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+        // 効率アップドーピング編
+        "felixfbecker.php-debug", // PHP Debug
+        "junstyle.php-cs-fixer", // PHPFormatter
+        "sophisticode.php-formatter", // PHPFormatter
+        "neilbrayfield.php-docblocker", // PHPDocs自動作成
+        "marabesi.php-import-checker", // PHPのインポートが使われているかチェック
+        "bmewburn.vscode-intelephense-client", // PHPインテリセンス
+        "ecodes.vscode-phpmd", // クリーンコード用
+        "mehedidracula.php-namespace-resolver",
+        "rifi2k.format-html-in-php" // PHPファイル内のHTMLをフォーマット（成形）
+    ]
+}

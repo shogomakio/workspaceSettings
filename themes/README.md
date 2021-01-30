@@ -24,14 +24,14 @@ apply changes with:
 
 for Mac
 
-* `Command + Shift + P`
+* `⌘ + ⇧ + p`
 
 For Windows
 
-* `Ctrl + Shift + P`
+* `Ctrl + Shift + p`
 
-enter and hit 
+enter and select:
 
-* `Reload Custom CSS and JS Loader` 
+* `Reload Custom CSS and JS Loader`
 
 *Do this every time there is an update.*

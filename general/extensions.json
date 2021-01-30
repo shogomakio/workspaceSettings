@@ -1,0 +1,29 @@
+{
+    // 参照 http://go.microsoft.com/fwlink/?LinkId=827846
+    // for the documentation about the extensions.json format
+    "recommendations": [
+        // Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+        // Git
+        "eamodio.gitlens", // Git管理用
+        "atlassian.atlascode", // Bitbucketのプルリクを作成・プルリクをVSCodeで開ける
+        // 便利
+        "usernamehw.errorlens", // エラーをハイライトして目立たせる
+        "streetsidesoftware.code-spell-checker", // 英語のスペルチェックで誤字を減らそう
+        "mosapride.zenkaku", // 全角スペースを表示でエラー防止
+        "formulahendry.auto-rename-tag", // HTMLタグの名前変更を簡単に
+        "formulahendry.auto-close-tag", // HTMLタグを自動的にクローズ
+        "alefragnani.bookmarks", // ブックマーク
+        "coenraads.bracket-pair-colorizer", // 括弧の色を変えて見やすくする
+        "kisstkondoros.vscode-gutter-preview", // 画像パスでプレビューが見れる
+        "christian-kohler.path-intellisense", // パス（Path）のインテリセンス
+        "mechatroner.rainbow-csv", // CSVを見やすく
+        "chrmarti.regex", // 正規表現をプレビュー
+        "wayou.vscode-todo-highlight", // TODOやFIXMEを目立たせる
+        "gruntfuggly.todo-tree", // プロジェクト内のTODO一覧を表示
+        "dotjoshjohnson.xml", // XML
+        "redhat.vscode-yaml", // YAML
+        "davidanson.vscode-markdownlint", // Markdown
+        // 見た目
+        "pkief.material-icon-theme" // Explorerのファイルを見やすくする
+    ]
+}
