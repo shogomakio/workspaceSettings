@@ -30,6 +30,8 @@ For Windows
 
 * `Ctrl + Shift + P`
 
-enter and hit `Reload Custom CSS and JS Loader` 
+enter and hit 
 
-* Do this every time there is an update.
+* `Reload Custom CSS and JS Loader` 
+
+* *Do this every time there is an update.*
