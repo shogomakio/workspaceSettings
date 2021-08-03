@@ -10,7 +10,7 @@ add the css path to `settings.json` of the workspace
 
 ```json
   "vscode_custom_css.imports": [
-      "file:///{$path}/synthwave-x-fluoromachine.css"
+      "file:///{$path}/Synthwave84.css"
     ]
 ```
 
