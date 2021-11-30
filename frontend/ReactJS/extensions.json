@@ -1,0 +1,35 @@
+{
+    "recommendations": [
+        // フロント編
+        "pranaygp.vscode-css-peek", // command+クリックでCSSクラスの中身を覗く
+        // "joelday.docthis", // JSDoc自動作成（ファンクション名にカーソル=>control+alt+Dを２回）
+        "dbaeumer.vscode-eslint", // ECMA Script/Java Scriptのチェックをするツール
+        "abusaidm.html-snippets", // HTMLスニペット
+        "esbenp.prettier-vscode", // JS・CSS・HTMLフォーマット
+        "visualstudioexptteam.vscodeintellicode", // Typescrypt/Javascript用インテリセンス
+        "dariofuzinato.vue-peek", // Vueファイルの定義を表示してくれます
+        "dsznajder.es7-react-js-snippets",
+        "dbaeumer.vscode-eslint",
+        "formulahendry.auto-close-tag",
+        "ritwickdey.liveserver",
+        "christian-kohler.npm-intellisense",
+        "streetsidesoftware.code-spell-checker", // 英語のスペルチェックで誤字を減らそう
+        "usernamehw.errorlens", // エラーをハイライトして目立たせる
+        "mosapride.zenkaku", // 全角スペースを表示でエラー防止
+        // 便利
+        "formulahendry.auto-rename-tag", // HTMLタグの名前変更を簡単に
+        "formulahendry.auto-close-tag", // HTMLタグを自動的にクローズ
+        "alefragnani.bookmarks", // ブックマーク
+        "coenraads.bracket-pair-colorizer", // 括弧の色を変えて見やすくする
+        "kisstkondoros.vscode-gutter-preview", // 画像パスでプレビューが見れる
+        "christian-kohler.path-intellisense", // パス（Path）のインテリセンス
+        "mechatroner.rainbow-csv", // CSVを見やすく
+        "chrmarti.regex", // 正規表現をプレビュー
+        "wayou.vscode-todo-highlight", // TODOやFIXMEを目立たせる
+        "gruntfuggly.todo-tree", // プロジェクト内のTODO一覧を表示
+        "pkief.material-icon-theme", // Explorerのファイルを見やすくする
+        "dotjoshjohnson.xml", // XML
+        "redhat.vscode-yaml", // YAML
+        "davidanson.vscode-markdownlint" // Markdown
+    ]
+}
