@@ -4,7 +4,6 @@
     "recommendations": [
         // Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
         // 効率アップドーピング編
-        "felixfbecker.php-debug", // PHP Debug
         "junstyle.php-cs-fixer", // PHPFormatter
         "sophisticode.php-formatter", // PHPFormatter
         "neilbrayfield.php-docblocker", // PHPDocs自動作成

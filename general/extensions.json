@@ -13,7 +13,6 @@
         "formulahendry.auto-rename-tag", // HTMLタグの名前変更を簡単に
         "formulahendry.auto-close-tag", // HTMLタグを自動的にクローズ
         "alefragnani.bookmarks", // ブックマーク
-        "coenraads.bracket-pair-colorizer", // 括弧の色を変えて見やすくする
         "kisstkondoros.vscode-gutter-preview", // 画像パスでプレビューが見れる
         "christian-kohler.path-intellisense", // パス（Path）のインテリセンス
         "mechatroner.rainbow-csv", // CSVを見やすく
