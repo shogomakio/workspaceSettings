@@ -8,13 +8,14 @@
 
 .mtk3 {
   /* comments */
+  /* color: #a981df; */
   color: #7850A8;
 }
 
 .mtk8 {
   /* function names */
   color: #ffffff;
-  text-shadow: 0 0 2px #001716, 0 0 3px #a2a2a2, 0 0 5px #a2a2a2, 0 0 8px #a2a2a2;
+  text-shadow: 0 0 2px #001716, 0 0 10px #a2a2a2, 0 0 5px #a2a2a2, 0 0 25px #a2a2a2;
     /* color: #AE98D7; */
     /* text-shadow: 0 0 2px #001716, 0 0 3px #51522a, 0 0 5px #51522a,
       0 0 8px #51522a; */
@@ -33,19 +34,20 @@
   text-shadow: 0 0 2px #001716, 0 0 10px #61e2ff, 0 0 5px #61e2ff, 0 0 25px #61e2ff;
 }
 
-.mtk11, .mtk12 {
+.mtk12 {
   /* values */
-  /* color: #fff100; */
-  color: #f0f27a;
-  /* color: #e9ea77; */
-  /* color: #fed52b; */
-  /* color: #32fa05; */
-  /* text-shadow: 0 0 2px #001716, 0 0 3px #626700, 0 0 5px #c2ce00,
-    0 0 8px #c2ce00; */
+  color: #65fe52;
 }
 
-.mtk14 {
-  color: #f92aad;
+.mtk11 {
+  /* primitive values */
+  color: #E16863;
+  /* color: #65fe52; */
+}
+
+.mtk15 {
+  /* property names */
+  color: #eaf257;
 }
 
 .monaco-editor .margin,
