@@ -1,43 +1,51 @@
+/* span, */
 .mtk1,
-.mtk7,
-.mtk18 {
+span.mtk6,
+.mtk9 {
   /* class names */
-  color: #ee6dff;
-  text-shadow: 1px 1px 1px #000, 0 0 20px #ee6dff, 0 0 5px #ee6dff, 0 0 20px #ee6dff;
+  color: #F379D4;
+  text-shadow: 1px 1px 1px #000, 0 0 20px #fe53bf, 0 0 3px #fe53bf, 0 0 10px #fe53bf;
 }
 
-.mtk10,
 .mtk4,
 .mtk20,
 .mtk13 {
   /* key and constant names */
   color: #61e2ff;
-  text-shadow: 1px 1px 1px #001716, 0 0 20px #2fd6fb, 0 0 5px #2fd6fb, 0 0 20px #2fd6fb;
+  text-shadow: 1px 1px 1px #001716, 0 0 2px #2fd6fb, 0 0 5px #2fd6fb, 0 0 20px #2fd6fb;
+}
+
+.mtk5 {
+  /* key and constant names */
+  color: #9E6CC8;
+  text-shadow: 1px 1px 1px #001716, 0 0 2px #9851d6, 0 0 5px #9851d6, 0 0 20px #9851d6;
 }
 
 .mtk3 {
   /* comments */
-  color: #7850a8;
+  color: #474747;
+  /* color: #7850a8; */
+  text-shadow: none;
 }
 
-.mtk8 {
+
+.mtk10 {
   /* function names */
   color: #ffffff;
-  text-shadow: 1px 1px 1px #001716, 0 0 20px #c6c6c6, 0 0 3px #c6c6c6, 0 0 10px #c6c6c6;
+  text-shadow: none;
+  /* text-shadow: 1px 1px 1px #001716, 0 0 20px #c6c6c6, 0 0 3px #c6c6c6, 0 0 10px #c6c6c6; */
 }
 
-.mtk9 {
-  /* this and html tag names */
-  color: #fd8090;
-  text-shadow: 1px 1px 1px  #001716, 0 0 20px #ff7588, 0 0 3px #ff7588, 0 0 10px #ff7588;
-}
-
+.mtk8,
+/* .mtk5, */
 .mtk11 {
   /* primitive values */
   color: #ffff8a;
-  text-shadow: 1px 1px 1px #001716, 0 0 20px #d7d72f, 0 0 3px #d7d72f, 0 0 10px #d7d72f;
+  /* text-shadow: none; */
+  text-shadow: 1px 1px 1px #001716, 0 0 20px #d7d72f, 0 0 10px #d7d72f, 0 0 10px #d7d72f;
 }
 
+.mtk7,
 .mtk12 {
   /* values */
   color: #1afe49;
